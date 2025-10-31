@@ -1,0 +1,9 @@
+# build artifacts
+/bin/
+/dist/
+
+# editor detritus
+.DS_Store
+*.swp
+.idea/
+.vscode/
