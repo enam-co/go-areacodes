@@ -259,6 +259,16 @@
 		},
 		"stateCode": "OH"
 	},
+	"235": {
+		"type": "local",
+		"city": "Columbia",
+		"state": "Missouri",
+		"stateCode": "MO",
+		"location": {
+			"latitude": 37.919598,
+			"longitude": -91.136288
+		}
+	},
 	"239": {
 		"type": "local",
 		"city": "Cape Coral",
@@ -418,16 +428,6 @@
 			"longitude": -81.622088
 		},
 		"stateCode": "VA"
-	},
-	"278": {
-		"type": "local",
-		"city": "ann arbor",
-		"state": "michigan",
-		"location": {
-			"latitude": 42.280825,
-			"longitude": -83.743037
-		},
-		"stateCode": "MI"
 	},
 	"279": {
 		"type": "local",
@@ -659,6 +659,16 @@
 		},
 		"stateCode": "CA"
 	},
+	"324": {
+		"type": "local",
+		"city": "Jacksonville",
+		"state": "Florida",
+		"stateCode": "FL",
+		"location": {
+			"latitude": 30.236743,
+			"longitude": -81.824942
+		}
+	},
 	"325": {
 		"type": "local",
 		"city": "Abilene",
@@ -688,6 +698,16 @@
 			"longitude": -92.083437
 		},
 		"stateCode": "AR"
+	},
+	"329": {
+		"type": "local",
+		"city": "Kingston",
+		"state": "New York",
+		"stateCode": "NY",
+		"location": {
+			"latitude": 41.68195,
+			"longitude": -74.259071
+		}
 	},
 	"330": {
 		"type": "local",
@@ -799,6 +819,16 @@
 		},
 		"stateCode": "NY"
 	},
+	"350": {
+		"type": "local",
+		"city": "Lodi",
+		"state": "California",
+		"stateCode": "CA",
+		"location": {
+			"latitude": 37.810234,
+			"longitude": -120.524619
+		}
+	},
 	"351": {
 		"type": "local",
 		"city": "Haverhill",
@@ -819,6 +849,26 @@
 		},
 		"stateCode": "FL"
 	},
+	"353": {
+		"type": "local",
+		"city": "Janesville",
+		"state": "Wisconsin",
+		"stateCode": "WI",
+		"location": {
+			"latitude": 43.376417,
+			"longitude": -90.232246
+		}
+	},
+	"357": {
+		"type": "local",
+		"city": "Clovis",
+		"state": "California",
+		"stateCode": "CA",
+		"location": {
+			"latitude": 36.600669,
+			"longitude": -119.378031
+		}
+	},
 	"360": {
 		"type": "local",
 		"city": "Bellingham",
@@ -838,6 +888,16 @@
 			"longitude": -97.67658
 		},
 		"stateCode": "TX"
+	},
+	"363": {
+		"type": "local",
+		"city": "Freeport",
+		"state": "New York",
+		"stateCode": "NY",
+		"location": {
+			"latitude": 40.750917,
+			"longitude": -73.398233
+		}
 	},
 	"364": {
 		"type": "local",
@@ -1109,6 +1169,16 @@
 		},
 		"stateCode": "UT"
 	},
+	"436": {
+		"type": "local",
+		"city": "Cleveland",
+		"state": "Ohio",
+		"stateCode": "OH",
+		"location": {
+			"latitude": 41.483337,
+			"longitude": -81.422584
+		}
+	},
 	"440": {
 		"type": "local",
 		"city": "Cleveland",
@@ -1158,6 +1228,26 @@
 			"longitude": -88.243382
 		},
 		"stateCode": "IL"
+	},
+	"448": {
+		"type": "local",
+		"city": "Pensacola",
+		"state": "Florida",
+		"stateCode": "FL",
+		"location": {
+			"latitude": 30.35353,
+			"longitude": -85.304696
+		}
+	},
+	"457": {
+		"type": "local",
+		"city": "Bossier City",
+		"state": "Louisiana",
+		"stateCode": "LA",
+		"location": {
+			"latitude": 32.062174,
+			"longitude": -92.544682
+		}
 	},
 	"458": {
 		"type": "local",
@@ -1209,6 +1299,26 @@
 		},
 		"stateCode": "GA"
 	},
+	"471": {
+		"type": "local",
+		"city": "Starkville",
+		"state": "Mississippi",
+		"stateCode": "MS",
+		"location": {
+			"latitude": 33.836267,
+			"longitude": -89.621696
+		}
+	},
+	"472": {
+		"type": "local",
+		"city": "Fayetteville",
+		"state": "North Carolina",
+		"stateCode": "NC",
+		"location": {
+			"latitude": 34.75927,
+			"longitude": -78.576525
+		}
+	},
 	"475": {
 		"type": "local",
 		"city": "Bridgeport",
@@ -1248,6 +1358,16 @@
 			"longitude": -111.758833
 		},
 		"stateCode": "AZ"
+	},
+	"483": {
+		"type": "local",
+		"city": "Auburn",
+		"state": "Alabama",
+		"stateCode": "AL",
+		"location": {
+			"latitude": 31.748015,
+			"longitude": -86.710752
+		}
 	},
 	"484": {
 		"type": "local",
@@ -1579,6 +1699,16 @@
 		},
 		"stateCode": "VA"
 	},
+	"572": {
+		"type": "local",
+		"city": "Midwest City",
+		"state": "Oklahoma",
+		"stateCode": "OK",
+		"location": {
+			"latitude": 35.390576,
+			"longitude": -97.472448
+		}
+	},
 	"573": {
 		"type": "local",
 		"city": "Columbia",
@@ -1809,6 +1939,16 @@
 		},
 		"stateCode": "KS"
 	},
+	"621": {
+		"type": "local",
+		"city": "Houston",
+		"state": "Texas",
+		"stateCode": "TX",
+		"location": {
+			"latitude": 29.837525,
+			"longitude": -95.377346
+		}
+	},
 	"623": {
 		"type": "local",
 		"city": "Phoenix",
@@ -1826,16 +1966,6 @@
 		"location": {
 			"latitude": 34.108144,
 			"longitude": -117.98469
-		},
-		"stateCode": "CA"
-	},
-	"627": {
-		"type": "local",
-		"city": "santa rosa",
-		"state": "California",
-		"location": {
-			"latitude": 38.440429,
-			"longitude": -122.714054
 		},
 		"stateCode": "CA"
 	},
@@ -1908,6 +2038,16 @@
 			"longitude": -93.234162
 		},
 		"stateCode": "IA"
+	},
+	"645": {
+		"type": "local",
+		"city": "Miami",
+		"state": "Florida",
+		"stateCode": "FL",
+		"location": {
+			"latitude": 25.300831,
+			"longitude": -80.856754
+		}
 	},
 	"646": {
 		"type": "local",
@@ -2299,6 +2439,16 @@
 		},
 		"stateCode": "FL"
 	},
+	"729": {
+		"type": "local",
+		"city": "Chattanooga",
+		"state": "Tennessee",
+		"stateCode": "TN",
+		"location": {
+			"latitude": 35.883792,
+			"longitude": -83.924438
+		}
+	},
 	"730": {
 		"type": "local",
 		"city": "Alton",
@@ -2348,6 +2498,16 @@
 			"longitude": -97.74306
 		},
 		"stateCode": "TX"
+	},
+	"738": {
+		"type": "local",
+		"city": "Los Angeles",
+		"state": "California",
+		"stateCode": "CA",
+		"location": {
+			"latitude": 34.049442,
+			"longitude": -118.266392
+		}
 	},
 	"740": {
 		"type": "local",
@@ -2459,6 +2619,16 @@
 		},
 		"stateCode": "GA"
 	},
+	"771": {
+		"type": "local",
+		"city": "Washington",
+		"state": "District Of Columbia",
+		"stateCode": "DC",
+		"location": {
+			"latitude": 38.904789,
+			"longitude": -77.016273
+		}
+	},
 	"772": {
 		"type": "local",
 		"city": "Port St. Lucie",
@@ -2538,6 +2708,16 @@
 			"longitude": -80.532102
 		},
 		"stateCode": "FL"
+	},
+	"787": {
+		"type": "local",
+		"city": "San Juan",
+		"state": "Puerto Rico",
+		"stateCode": "PR",
+		"location": {
+			"latitude": 18.4655,
+			"longitude": -66.1057
+		}
 	},
 	"800": {
 		"type": "toll-free",
@@ -2769,6 +2949,16 @@
 		},
 		"stateCode": null
 	},
+	"835": {
+		"type": "local",
+		"city": "Allentown",
+		"state": "Pennsylvania",
+		"stateCode": "PA",
+		"location": {
+			"latitude": 40.341781,
+			"longitude": -75.643876
+		}
+	},
 	"838": {
 		"type": "local",
 		"city": "Albany",
@@ -2918,6 +3108,16 @@
 			"longitude": -72.617608
 		},
 		"stateCode": "CT"
+	},
+	"861": {
+		"type": "local",
+		"city": "Bloomington",
+		"state": "Illinois",
+		"stateCode": "IL",
+		"location": {
+			"latitude": 40.802537,
+			"longitude": -89.95696
+		}
 	},
 	"862": {
 		"type": "local",
@@ -3279,6 +3479,16 @@
 		},
 		"stateCode": "WI"
 	},
+	"924": {
+		"type": "local",
+		"city": "Austin",
+		"state": "Minnesota",
+		"stateCode": "MN",
+		"location": {
+			"latitude": 44.040521,
+			"longitude": -94.170011
+		}
+	},
 	"925": {
 		"type": "local",
 		"city": "Antioch",
@@ -3369,6 +3579,16 @@
 		},
 		"stateCode": "AL"
 	},
+	"939": {
+		"type": "local",
+		"city": "San Juan",
+		"state": "Puerto Rico",
+		"stateCode": "PR",
+		"location": {
+			"latitude": 18.4655,
+			"longitude": -66.1057
+		}
+	},
 	"940": {
 		"type": "local",
 		"city": "Denton",
@@ -3388,6 +3608,16 @@
 			"longitude": -81.666428
 		},
 		"stateCode": "FL"
+	},
+	"945": {
+		"type": "local",
+		"city": "Carrollton",
+		"state": "Texas",
+		"stateCode": "TX",
+		"location": {
+			"latitude": 32.771888,
+			"longitude": -96.647071
+		}
 	},
 	"947": {
 		"type": "local",
@@ -3503,11 +3733,11 @@
 		"type": "local",
 		"city": "Kansas City",
 		"state": "Missouri",
+		"stateCode": "MO",
 		"location": {
-			"latitude": 39.099726,
-			"longitude": -94.578566
-		},
-		"stateCode": "MO"
+			"latitude": 39.099727,
+			"longitude": -94.578567
+		}
 	},
 	"978": {
 		"type": "local",
@@ -3538,6 +3768,16 @@
 			"longitude": -80.734736
 		},
 		"stateCode": "NC"
+	},
+	"983": {
+		"type": "local",
+		"city": "Aurora",
+		"state": "Colorado",
+		"stateCode": "CO",
+		"location": {
+			"latitude": 39.713461,
+			"longitude": -104.82857
+		}
 	},
 	"984": {
 		"type": "local",
